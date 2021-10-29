@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Fpg</string>
+    <string name="quit">Quit</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="uerror">Unknown error occurred!</string>
+    <string name="unsupported">This ROM/install does not support Fpg :(</string>
+    <string name="enable_support">Enable (ROOT)</string>
+    <string name="apply_changes_title">Apply changes NOW (ROOT)</string>
+    <string name="apply_changes_msg">Instead of this, reboot is recommened. This will temp-enable fp gestures.</string>
+    <string name="gesture_tap">Tap</string>
+    <string name="gesture_hold">Hold</string>
+    <string name="gesture_swipe_left">Swipe left</string>
+    <string name="gesture_swipe_right">Swipe right</string>
+    <string name="action_unknown">Unknown action</string>
+    <string name="action_default">Default</string>
+    <string name="action_power">Turn off screen</string>
+    <string name="action_back">Back</string>
+    <string name="action_screenshot">Screenshot</string>
+    <string name="action_home">Home</string>
+    <string name="action_recents">Recent apps</string>
+    <string name="action_assistant">Open assistant app</string>
+    <string name="action_notification_bar">Show notifications (requires ROM support)</string>
+    <string name="action_notification_bar_alt">Show notifications - alternative method (requires ROM support)</string>
+    <string name="action_nothing">Nothing</string>
+    <string name="action_calendar">Open Calendar</string>
+    <string name="action_call">Start call</string>
+    <string name="action_contacts">Open Contacts</string>
+    <string name="action_envelope">Open Mail</string>
+    <string name="action_music">Open Music</string>
+    <string name="action_browser">Open Browser</string>
+    <string name="action_volume_up">Volume up</string>
+    <string name="action_volume_mute">Volume mute</string>
+    <string name="action_volume_down">Volume down</string>
+    <string name="perma_enable_title">Permanently enable fp gestures</string>
+    <string name="perma_enable_msg">You want navigation bar and fingerprint gestures at the same time? Click here to download a magisk module for it!</string>
+    <string name="credits">© 2020–2021 nift4\n\nThanks to Jon :)\nThis app is released under the Apache 2.0 License.</string>
+</resources>

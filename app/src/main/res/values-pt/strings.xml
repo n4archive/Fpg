@@ -1,0 +1,30 @@
+<resources>
+    <string name="quit">Sair</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Ok</string>
+    <string name="uerror">Ocorreu um erro desconhecido!</string>
+    <string name="unsupported">Essa rom/instalação não suporta a Fpg :(</string>
+    <string name="enable_support">Habilitar (ROOT)</string>
+    <string name="apply_changes_title">Aplicar alterações AGORA(ROOT)</string>
+    <string name="apply_changes_msg">Em vez disso, é recomendado reiniciar. Isso vai temporáriamente ativar a navegação por gestos.</string>
+    <string name="gesture_tap">Tocar</string>
+    <string name="gesture_hold">Segurar</string>
+    <string name="gesture_swipe_left">Deslizar para esquerda</string>
+    <string name="gesture_swipe_right">Deslizar para direita</string>
+    <string name="action_default">Padrão</string>
+    <string name="action_power">Desligar tela</string>
+    <string name="action_back">Voltar</string>
+    <string name="action_screenshot">Tirar screenshot</string>
+    <string name="action_home">Voltar para o início</string>
+    <string name="action_recents">Aplicativos recentes</string>
+    <string name="action_assistant">Abrir assistente</string>
+    <string name="action_notification_bar">Mostrar notificações (requer suporte da ROM)</string>
+    <string name="action_notification_bar_alt">Mostrar notificações - método alternativo (requer suporte da rom)</string>
+    <string name="action_nothing">Não fazer nada</string>
+    <string name="action_calendar">Abrir calendário</string>
+    <string name="action_call">Abrir telefone</string>
+    <string name="action_contacts">Abrir contatos</string>
+    <string name="action_envelope">Abrir email</string>
+    <string name="action_music">Abrir música</string>
+    <string name="action_browser">Abrir navegador</string>
+</resources>

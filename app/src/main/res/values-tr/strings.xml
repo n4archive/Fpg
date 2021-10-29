@@ -1,0 +1,30 @@
+<resources>
+    <string name="quit">Çıkış</string>
+    <string name="cancel">İptal</string>
+    <string name="ok">Tamam</string>
+    <string name="uerror">Bilinmeyen hata oluştu!</string>
+    <string name="unsupported">Bu ROM/Yükleme Fpg\'yi desteklememektedir :(</string>
+    <string name="enable_support">Etkinleştir (ROOT)</string>
+    <string name="apply_changes_title">Değişiklikleri ŞİMDİ Uygula(ROOT)</string>
+    <string name="apply_changes_msg">Bunun yerine, yeniden başlatmak önerilir. Bu geçiçi olarak etkinleştirecektir.</string>
+    <string name="gesture_tap">Dokun</string>
+    <string name="gesture_hold">Basılı Tut</string>
+    <string name="gesture_swipe_left">Sola kaydır</string>
+    <string name="gesture_swipe_right">Sağa kaydır</string>
+    <string name="action_default">Varsayılan</string>
+    <string name="action_power">Ekranı kapat</string>
+    <string name="action_back">Geri</string>
+    <string name="action_screenshot">Ekran Görüntüsü</string>
+    <string name="action_home">Ana Ekran</string>
+    <string name="action_recents">Son Uygulamalar</string>
+    <string name="action_assistant">Asistan Uygulamasını Aç</string>
+    <string name="action_notification_bar">Bildirimleri göster (ROM Desteği Gerektirir)</string>
+    <string name="action_notification_bar_alt">Bildirimleri Göster - alternatif çözüm (ROM Desteği Gerektirir)</string>
+    <string name="action_nothing">Hiç bir şey</string>
+    <string name="action_calendar">Takvimi Aç</string>
+    <string name="action_call">Arama Başlat</string>
+    <string name="action_contacts">Rehberi Aç</string>
+    <string name="action_envelope">Mailleri Aç</string>
+    <string name="action_music">Müzik Aç</string>
+    <string name="action_browser">Tarayıcıyı Aç</string>
+</resources>

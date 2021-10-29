@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quit">Verlassen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">OK</string>
+    <string name="uerror">Ein unbekannter Fehler ist aufgetreten.</string>
+    <string name="unsupported">Dieses ROM/diese Installation unterstützt kein Fpg :(</string>
+    <string name="enable_support">Aktivieren (ROOT)</string>
+    <string name="apply_changes_title">Änderungen JETZT anwenden (ROOT)</string>
+    <string name="apply_changes_msg">Statt diesem Knopf wird ein Neustart empfohlen. Dieser Knopf wird Fingerabdruckgesten temporär aktivieren.</string>
+    <string name="gesture_tap">Tippen</string>
+    <string name="gesture_hold">Halten</string>
+    <string name="gesture_swipe_left">Nach links wischen</string>
+    <string name="gesture_swipe_right">Nach rechts wischen</string>
+    <string name="action_default">Standard</string>
+    <string name="action_power">Bildschirm ausschalten</string>
+    <string name="action_back">Zurück</string>
+    <string name="action_screenshot">Bildschirmfoto erstellen</string>
+    <string name="action_home">Home</string>
+    <string name="action_recents">App-Übersicht anzeigen</string>
+    <string name="action_assistant">Assistent-App öffnen</string>
+    <string name="action_notification_bar">Benachrichtigungen anzeigen (benötigt ROM-Unterstützung)</string>
+    <string name="action_notification_bar_alt">Benachrichtigungen anzeigen - alternative Methode (benötigt ROM-Unterstützung)</string>
+    <string name="action_nothing">Nichts tun</string>
+    <string name="action_calendar">Kalender-App öffnen</string>
+    <string name="action_call">Anruf starten</string>
+    <string name="action_contacts">Kontakte öffnen</string>
+    <string name="action_envelope">E-Mail öffnen</string>
+    <string name="action_music">Musikplayer öffnen</string>
+    <string name="action_browser">Browser öffnen</string>
+    <string name="action_volume_up">Lauter</string>
+    <string name="action_volume_mute">Stummschaltung</string>
+    <string name="action_volume_down">Leiser</string>
+    <string name="perma_enable_title">Fingerabdruckgesten dauerhaft aktivieren</string>
+    <string name="perma_enable_msg">Willst du die Navigationsleiste und Fingerabdruckgesten gleichzeitig? Klicke hier, um ein Magisk-Modul herunterzuladen!</string>
+    <string name="credits">© 2020–2021 nift4\n\nDanke an Jon :)\nDiese App ist unter der Apache 2.0-Lizenz lizenziert.</string>
+</resources>

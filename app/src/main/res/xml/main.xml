@@ -1,0 +1,40 @@
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:key="tap"
+        app:title="@string/gesture_tap"
+        app:summary="@string/action_unknown"/>
+
+    <Preference
+        app:key="hold"
+        app:title="@string/gesture_hold"
+        app:summary="@string/action_unknown"/>
+
+    <Preference
+        app:key="swipe_left"
+        app:title="@string/gesture_swipe_left"
+        app:summary="@string/action_unknown"/>
+
+    <Preference
+        app:key="swipe_right"
+        app:title="@string/gesture_swipe_right"
+        app:summary="@string/action_unknown"/>
+
+    <Preference
+        app:key="apply_changes"
+        app:title="@string/apply_changes_title"
+        app:summary="@string/apply_changes_msg"/>
+
+    <Preference
+        app:key="perma_enable"
+        app:title="@string/perma_enable_title"
+        app:summary="@string/perma_enable_msg"/>
+
+    <Preference
+        app:key="about"
+        app:enabled="false"
+        app:title="@string/app_name"
+        app:summary="@string/credits"/>
+
+</PreferenceScreen>

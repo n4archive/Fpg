@@ -1,0 +1,30 @@
+<resources>
+    <string name="quit">Ukončit</string>
+    <string name="cancel">Zrušit</string>
+    <string name="ok">OK</string>
+    <string name="uerror">Došlo k neznámé chybě!</string>
+    <string name="unsupported">Bohužel, tato ROM nepodporuje Fpg! :(</string>
+    <string name="enable_support">Povolit (ROOT)</string>
+    <string name="apply_changes_title">Uložit změny bez restartování(ROOT)</string>
+    <string name="apply_changes_msg">Ke korektnímu fungování se doporučuje restartovat zařízení. Tato možnost dočasně povolí gesta.</string>
+    <string name="gesture_tap">Akce při poklepání</string>
+    <string name="gesture_hold">Akce při podržení</string>
+    <string name="gesture_swipe_left">Akce při potáhnutí doleva</string>
+    <string name="gesture_swipe_right">Akce při potáhnutí doprava</string>
+    <string name="action_default">Předvolená akce</string>
+    <string name="action_power">Vypnout obrazovku</string>
+    <string name="action_back">Krok zpět</string>
+    <string name="action_screenshot">Vytvořit snímku obrazovky (screenshot)</string>
+    <string name="action_home">Domů</string>
+    <string name="action_recents">Nedávné aplikace</string>
+    <string name="action_assistant">Otevřít asistenční aplikaci</string>
+    <string name="action_notification_bar">Otevřít notifikační panel (potřebná podpora ROM)</string>
+    <string name="action_notification_bar_alt">Otevřít notifikační panel - alternativní způsob (potřebná podpora ROM)</string>
+    <string name="action_nothing">Nevykonat žádnou akci</string>
+    <string name="action_calendar">Otevřít kalendář</string>
+    <string name="action_call">Zahájit hovor</string>
+    <string name="action_contacts">Otevřít kontakty</string>
+    <string name="action_envelope">Otevřít mail</string>
+    <string name="action_music">Otevřít hudební aplikaci</string>
+    <string name="action_browser">Otevřít webový prohlížeč</string>
+</resources>

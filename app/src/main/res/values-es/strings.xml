@@ -1,0 +1,30 @@
+<resources>
+    <string name="quit">Salir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="uerror">¡Ocurrió un error desconocido!</string>
+    <string name="unsupported">Esta ROM/instalación no soporta Fpg :(</string>
+    <string name="enable_support">Activar (ROOT)</string>
+    <string name="apply_changes_title">Aplicar cambios AHORA (ROOT)</string>
+    <string name="apply_changes_msg">En lugar de esto, se recomienda reiniciar. Esto va a habilitar fp gestures temporalmente.</string>
+    <string name="gesture_tap">Tocar</string>
+    <string name="gesture_hold">Mantener</string>
+    <string name="gesture_swipe_left">Deslizar a la izquierda</string>
+    <string name="gesture_swipe_right">Deslizar a la derecha</string>
+    <string name="action_default">Predeterminado</string>
+    <string name="action_power">Apagar la pantalla</string>
+    <string name="action_back">Atrás</string>
+    <string name="action_screenshot">Captura de pantalla</string>
+    <string name="action_home">Inicio</string>
+    <string name="action_recents">Aplicaciones recientes</string>
+    <string name="action_assistant">Abrir aplicación de asistencia</string>
+    <string name="action_notification_bar">Mostrar notificaciones (requiere soporte por parte de la ROM)</string>
+    <string name="action_notification_bar_alt">Mostrar notificaciones - método alternativo (requiere soporte por parte de la ROM)</string>
+    <string name="action_nothing">Nada</string>
+    <string name="action_calendar">Abrir Calendario</string>
+    <string name="action_call">Llamar</string>
+    <string name="action_contacts">Abrir Contactos</string>
+    <string name="action_envelope">Abrir Correo</string>
+    <string name="action_music">Abrir Música</string>
+    <string name="action_browser">Abrir Navegador</string>
+</resources>
