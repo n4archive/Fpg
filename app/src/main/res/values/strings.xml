@@ -4,8 +4,7 @@
     <string name="cancel">Cancel</string>
     <string name="ok">OK</string>
     <string name="uerror">Unknown error occurred!</string>
-    <string name="unsupported">This ROM/install does not support Fpg :(</string>
-    <string name="enable_support">Enable (ROOT)</string>
+    <string name="setup">You need root for this app to work. Please grant root access.</string>
     <string name="apply_changes_title">Apply changes NOW (ROOT)</string>
     <string name="apply_changes_msg">Instead of this, reboot is recommened. This will temp-enable fp gestures.</string>
     <string name="gesture_tap">Tap</string>
@@ -31,8 +30,25 @@
     <string name="action_browser">Open Browser</string>
     <string name="action_volume_up">Volume up</string>
     <string name="action_volume_mute">Volume mute</string>
+    <string name="action_mute">Mic mute</string>
     <string name="action_volume_down">Volume down</string>
+    <string name="action_brightness_up">Increase brightness</string>
+    <string name="action_brightness_down">Decrease brightness</string>
+    <string name="action_menu">Menu key</string>
+    <string name="action_media_audio_track">Media Change Audio Track</string>
+    <string name="action_media_fast_forward">Media Fast Forward</string>
+    <string name="action_media_next">Media Next</string>
+    <string name="action_media_pause">Media Pause</string>
+    <string name="action_media_play">Media Play</string>
+    <string name="action_media_play_pause">Media Play/Pause</string>
+    <string name="action_media_previous">Media Previous</string>
+    <string name="action_media_rewind">Media Rewind</string>
+    <string name="action_media_skip_backward">Media Skip Backward</string>
+    <string name="action_media_skip_forward">Media Skip Forward</string>
+    <string name="action_media_step_backward">Media Step Backward</string>
+    <string name="action_media_step_forward">Media Step Forward</string>
+    <string name="action_media_stop">Media Stop</string>
     <string name="perma_enable_title">Permanently enable fp gestures</string>
-    <string name="perma_enable_msg">You want navigation bar and fingerprint gestures at the same time? Click here to download a magisk module for it!</string>
+    <string name="perma_enable_msg">You want navigation bar and fingerprint gestures at the same time? Click here to download a magisk module for it. Note that navbar must be disabled before rebooting the first time!</string>
     <string name="credits">© 2020–2021 nift4\n\nThanks to Jon :)\nThis app is released under the Apache 2.0 License.</string>
 </resources>
